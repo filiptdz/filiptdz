@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe Degrazia</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a passion for always learning and teaching others. I’m only satisfied with a job beyond expectations.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=filiptdz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactnative.dev" target="_blank">
@@ -24,6 +22,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=filiptdz&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filiptdz&theme=dark&show_icons=true&count_private=true)
 
